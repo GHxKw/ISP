@@ -29,10 +29,10 @@
     <li>
       <a href="#setup">Setup</a>
        <ul>
-        <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/arduino">Arduino</a></li>
-        <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/mobile">Mobile</a></li>
-        <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/client">Client</a></li>
-        <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/server">Server</a></li>
+        <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/arduino">Arduino</a></li>
+        <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/mobile">Mobile</a></li>
+        <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/client">Client</a></li>
+        <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/server">Server</a></li>
        </ul>
     </li>
     <li><a href="#technologies">Technologies</a></li>
