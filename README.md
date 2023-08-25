@@ -18,7 +18,7 @@
 
 <h4>Present slides: <a href=https://www.canva.com/design/DAFjhbSZAdY/gYEx7tmvrlS9z0Pk7vO0PA/view?utm_content=DAFjhbSZAdY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu>here</a></h4>
 
-<h4>Report submission: <a href=https://github.com/namanh2310/IoT_Project/blob/main/IOT_PROJECT_REPORT.pdf>here<a/></h4>
+<h4>Report submission: <a href=https://github.com/GHxKw/IoT_Project-main/blob/main/IOT_PROJECT_REPORT.pdf>here<a/></h4>
 
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 <details open="open">
@@ -62,10 +62,10 @@ List the ready features here:
 
 <h2 id="setup"> 🧰 Setup</h2>
   <ul>
-    <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/arduino">Arduino</a></li>
-    <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/mobile">Mobile</a></li>
-    <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/client">Client</a></li>
-    <li><a href="https://github.com/namanh2310/IoT_Project/tree/main/server">Server</a></li>
+    <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/arduino">Arduino</a></li>
+    <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/mobile">Mobile</a></li>
+    <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/client">Client</a></li>
+    <li><a href="https://github.com/GHxKw/IoT_Project-main/tree/main/server">Server</a></li>
    </ul>
  
 <h2 id="technologies"> 🖥️ Technologies</h2>
